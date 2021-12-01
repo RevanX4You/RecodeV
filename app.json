@@ -9,7 +9,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *VanzX*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -18,7 +18,7 @@ quotes = quotesnya.result.quotes
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
 🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 081524805420
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -287,7 +287,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *VanzX*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -417,7 +417,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *VanZx*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
